@@ -1,6 +1,6 @@
 **This is a personal project base on available algorithm** 
 
-What it can do : to ciper the text base on generated key 
+What it can do : to cipher the text base on generated key 
 
 Attention : 
  - Must generate the key first, then enter your message.
