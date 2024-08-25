@@ -6,5 +6,5 @@ Attention :
  - Encryption and decryption must have the same key to work.
 
 How to use ? 
- - You can create new project on your IDE and paste the code
+ - You can create new project on your IDE and paste the code.
  - Enjoy! 
