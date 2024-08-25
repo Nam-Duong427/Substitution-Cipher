@@ -1,4 +1,4 @@
-**This is a personal project base on available algorithm that I learned !** 
+**This is a personal project base on available algorithm !** 
 
 What it can do : to cipher the text base on generated key 
 
